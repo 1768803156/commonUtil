@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">common</string>
+    <string name="base_str1">加载中&#8230;</string>
+    <string name="nodata_str">暂无数据</string>
+</resources>
